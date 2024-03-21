@@ -1,0 +1,744 @@
+date,home_team,away_team,home_score,away_score,tournament,country,victoire
+1916-07-06,Argentina,Chile,6,1,Copa América,Argentina,True
+1916-07-10,Argentina,Brazil,1,1,Copa América,Argentina,False
+1916-07-17,Argentina,Uruguay,0,0,Copa América,Argentina,False
+1917-09-30,Uruguay,Chile,4,0,Copa América,Uruguay,True
+1917-10-07,Uruguay,Brazil,4,0,Copa América,Uruguay,True
+1917-10-14,Uruguay,Argentina,1,0,Copa América,Uruguay,True
+1919-05-11,Brazil,Chile,6,0,Copa América,Brazil,True
+1919-05-18,Brazil,Argentina,3,1,Copa América,Brazil,True
+1919-05-26,Brazil,Uruguay,2,2,Copa América,Brazil,False
+1919-05-29,Brazil,Uruguay,1,0,Copa América,Brazil,True
+1920-09-11,Chile,Brazil,0,1,Copa América,Chile,False
+1920-09-20,Chile,Argentina,1,1,Copa América,Chile,False
+1920-10-03,Chile,Uruguay,1,2,Copa América,Chile,False
+1921-10-02,Argentina,Brazil,1,0,Copa América,Argentina,True
+1921-10-16,Argentina,Paraguay,3,0,Copa América,Argentina,True
+1921-10-30,Argentina,Uruguay,1,0,Copa América,Argentina,True
+1922-09-17,Brazil,Chile,1,1,Copa América,Brazil,False
+1922-09-24,Brazil,Paraguay,1,1,Copa América,Brazil,False
+1922-10-01,Brazil,Uruguay,0,0,Copa América,Brazil,False
+1922-10-15,Brazil,Argentina,2,0,Copa América,Brazil,True
+1922-10-22,Brazil,Paraguay,3,0,Copa América,Brazil,True
+1923-11-04,Uruguay,Paraguay,2,0,Copa América,Uruguay,True
+1923-11-25,Uruguay,Brazil,2,1,Copa América,Uruguay,True
+1923-12-02,Uruguay,Argentina,2,0,Copa América,Uruguay,True
+1924-10-19,Uruguay,Chile,5,0,Copa América,Uruguay,True
+1924-10-26,Uruguay,Paraguay,3,1,Copa América,Uruguay,True
+1924-11-02,Uruguay,Argentina,0,0,Copa América,Uruguay,False
+1925-11-29,Argentina,Paraguay,2,0,Copa América,Argentina,True
+1925-12-13,Argentina,Brazil,4,1,Copa América,Argentina,True
+1925-12-20,Argentina,Paraguay,3,1,Copa América,Argentina,True
+1925-12-25,Argentina,Brazil,2,2,Copa América,Argentina,False
+1926-10-12,Chile,Bolivia,7,1,Copa América,Chile,True
+1926-10-17,Chile,Uruguay,1,3,Copa América,Chile,False
+1926-10-31,Chile,Argentina,1,1,Copa América,Chile,False
+1926-11-03,Chile,Paraguay,5,1,Copa América,Chile,True
+1927-11-01,Peru,Uruguay,0,4,Copa América,Peru,False
+1927-11-13,Peru,Bolivia,3,2,Copa América,Peru,True
+1927-11-27,Peru,Argentina,1,5,Copa América,Peru,False
+1929-11-03,Argentina,Peru,3,0,Copa América,Argentina,True
+1929-11-10,Argentina,Paraguay,4,1,Copa América,Argentina,True
+1929-11-17,Argentina,Uruguay,2,0,Copa América,Argentina,True
+1930-07-18,Uruguay,Peru,1,0,FIFA World Cup,Uruguay,True
+1930-07-21,Uruguay,Romania,4,0,FIFA World Cup,Uruguay,True
+1930-07-27,Uruguay,Yugoslavia,6,1,FIFA World Cup,Uruguay,True
+1930-07-30,Uruguay,Argentina,4,2,FIFA World Cup,Uruguay,True
+1934-05-27,Italy,United States,7,1,FIFA World Cup,Italy,True
+1934-05-31,Italy,Spain,1,1,FIFA World Cup,Italy,False
+1934-06-01,Italy,Spain,1,0,FIFA World Cup,Italy,True
+1934-06-03,Italy,Austria,1,0,FIFA World Cup,Italy,True
+1934-06-10,Italy,Czechoslovakia,2,1,FIFA World Cup,Italy,True
+1935-01-13,Peru,Uruguay,0,1,Copa América,Peru,False
+1935-01-20,Peru,Argentina,1,4,Copa América,Peru,False
+1935-01-26,Peru,Chile,1,0,Copa América,Peru,True
+1936-12-30,Argentina,Chile,2,1,Copa América,Argentina,True
+1937-01-09,Argentina,Paraguay,6,1,Copa América,Argentina,True
+1937-01-16,Argentina,Peru,1,0,Copa América,Argentina,True
+1937-01-23,Argentina,Uruguay,2,3,Copa América,Argentina,False
+1937-01-30,Argentina,Brazil,1,0,Copa América,Argentina,True
+1937-02-01,Argentina,Brazil,2,0,Copa América,Argentina,True
+1938-06-05,France,Belgium,3,1,FIFA World Cup,France,True
+1938-06-12,France,Italy,1,3,FIFA World Cup,France,False
+1939-01-15,Peru,Ecuador,5,2,Copa América,Peru,True
+1939-01-22,Peru,Chile,3,1,Copa América,Peru,True
+1939-01-29,Peru,Paraguay,3,0,Copa América,Peru,True
+1939-02-12,Peru,Uruguay,2,1,Copa América,Peru,True
+1941-02-02,Chile,Ecuador,5,0,Copa América,Chile,True
+1941-02-09,Chile,Peru,1,0,Copa América,Chile,True
+1941-02-16,Chile,Uruguay,0,2,Copa América,Chile,False
+1941-03-04,Chile,Argentina,0,1,Copa América,Chile,False
+1942-01-10,Uruguay,Chile,6,1,Copa América,Uruguay,True
+1942-01-18,Uruguay,Ecuador,7,0,Copa América,Uruguay,True
+1942-01-24,Uruguay,Brazil,1,0,Copa América,Uruguay,True
+1942-01-28,Uruguay,Paraguay,3,1,Copa América,Uruguay,True
+1942-02-01,Uruguay,Peru,3,0,Copa América,Uruguay,True
+1942-02-07,Uruguay,Argentina,1,0,Copa América,Uruguay,True
+1945-01-14,Chile,Ecuador,6,3,Copa América,Chile,True
+1945-01-24,Chile,Bolivia,5,0,Copa América,Chile,True
+1945-01-31,Chile,Colombia,2,0,Copa América,Chile,True
+1945-02-11,Chile,Argentina,1,1,Copa América,Chile,False
+1945-02-18,Chile,Uruguay,1,0,Copa América,Chile,True
+1945-02-28,Chile,Brazil,0,1,Copa América,Chile,False
+1946-01-12,Argentina,Paraguay,2,0,Copa América,Argentina,True
+1946-01-19,Argentina,Bolivia,7,1,Copa América,Argentina,True
+1946-01-26,Argentina,Chile,3,1,Copa América,Argentina,True
+1946-02-02,Argentina,Uruguay,3,1,Copa América,Argentina,True
+1946-02-10,Argentina,Brazil,2,0,Copa América,Argentina,True
+1947-11-30,Ecuador,Bolivia,2,2,Copa América,Ecuador,False
+1947-12-04,Ecuador,Colombia,0,0,Copa América,Ecuador,False
+1947-12-11,Ecuador,Chile,0,3,Copa América,Ecuador,False
+1947-12-16,Ecuador,Uruguay,1,6,Copa América,Ecuador,False
+1947-12-20,Ecuador,Peru,0,0,Copa América,Ecuador,False
+1947-12-25,Ecuador,Argentina,0,2,Copa América,Ecuador,False
+1947-12-29,Ecuador,Paraguay,0,4,Copa América,Ecuador,False
+1949-04-03,Brazil,Ecuador,9,1,Copa América,Brazil,True
+1949-04-10,Brazil,Bolivia,10,1,Copa América,Brazil,True
+1949-04-13,Brazil,Chile,2,1,Copa América,Brazil,True
+1949-04-17,Brazil,Colombia,5,0,Copa América,Brazil,True
+1949-04-24,Brazil,Peru,7,1,Copa América,Brazil,True
+1949-04-30,Brazil,Uruguay,5,1,Copa América,Brazil,True
+1949-05-08,Brazil,Paraguay,1,2,Copa América,Brazil,False
+1949-05-11,Brazil,Paraguay,7,0,Copa América,Brazil,True
+1950-06-24,Brazil,Mexico,4,0,FIFA World Cup,Brazil,True
+1950-06-28,Brazil,Switzerland,2,2,FIFA World Cup,Brazil,False
+1950-07-01,Brazil,Yugoslavia,2,0,FIFA World Cup,Brazil,True
+1950-07-09,Brazil,Sweden,7,1,FIFA World Cup,Brazil,True
+1950-07-13,Brazil,Spain,6,1,FIFA World Cup,Brazil,True
+1950-07-16,Brazil,Uruguay,1,2,FIFA World Cup,Brazil,False
+1953-02-22,Peru,Bolivia,0,1,Copa América,Peru,False
+1953-02-28,Peru,Ecuador,1,0,Copa América,Peru,True
+1953-03-04,Peru,Chile,0,0,Copa América,Peru,False
+1953-03-08,Peru,Paraguay,2,2,Copa América,Peru,False
+1953-03-19,Peru,Brazil,1,0,Copa América,Peru,True
+1953-03-28,Peru,Uruguay,0,3,Copa América,Peru,False
+1954-06-17,Switzerland,Italy,2,1,FIFA World Cup,Switzerland,True
+1954-06-20,Switzerland,England,0,2,FIFA World Cup,Switzerland,False
+1954-06-23,Switzerland,Italy,4,1,FIFA World Cup,Switzerland,True
+1954-06-26,Switzerland,Austria,5,7,FIFA World Cup,Switzerland,False
+1955-02-27,Chile,Ecuador,7,1,Copa América,Chile,True
+1955-03-06,Chile,Peru,5,4,Copa América,Chile,True
+1955-03-13,Chile,Uruguay,2,2,Copa América,Chile,False
+1955-03-20,Chile,Paraguay,5,0,Copa América,Chile,True
+1955-03-30,Chile,Argentina,0,1,Copa América,Chile,False
+1956-01-21,Uruguay,Paraguay,4,2,Copa América,Uruguay,True
+1956-01-28,Uruguay,Peru,2,0,Copa América,Uruguay,True
+1956-02-06,Uruguay,Chile,2,1,Copa América,Uruguay,True
+1956-02-10,Uruguay,Brazil,0,0,Copa América,Uruguay,False
+1956-02-15,Uruguay,Argentina,1,0,Copa América,Uruguay,True
+1956-09-01,Hong Kong,Israel,2,3,AFC Asian Cup,Hong Kong,False
+1956-09-06,Hong Kong,South Korea,2,2,AFC Asian Cup,Hong Kong,False
+1956-09-09,Hong Kong,Vietnam Republic,2,2,AFC Asian Cup,Hong Kong,False
+1957-02-10,Sudan,Egypt,1,2,African Cup of Nations,Sudan,False
+1957-03-10,Peru,Ecuador,2,1,Copa América,Peru,True
+1957-03-16,Peru,Chile,1,0,Copa América,Peru,True
+1957-03-23,Peru,Uruguay,3,5,Copa América,Peru,False
+1957-03-27,Peru,Colombia,4,1,Copa América,Peru,True
+1957-03-31,Peru,Brazil,0,1,Copa América,Peru,False
+1957-04-06,Peru,Argentina,2,1,Copa América,Peru,True
+1958-06-08,Sweden,Mexico,3,0,FIFA World Cup,Sweden,True
+1958-06-12,Sweden,Hungary,2,1,FIFA World Cup,Sweden,True
+1958-06-15,Sweden,Wales,0,0,FIFA World Cup,Sweden,False
+1958-06-19,Sweden,Russia,2,0,FIFA World Cup,Sweden,True
+1958-06-24,Sweden,Germany,3,1,FIFA World Cup,Sweden,True
+1958-06-29,Sweden,Brazil,2,5,FIFA World Cup,Sweden,False
+1959-03-07,Argentina,Chile,6,1,Copa América,Argentina,True
+1959-03-11,Argentina,Bolivia,2,0,Copa América,Argentina,True
+1959-03-18,Argentina,Peru,3,1,Copa América,Argentina,True
+1959-03-22,Argentina,Paraguay,3,1,Copa América,Argentina,True
+1959-03-30,Argentina,Uruguay,4,1,Copa América,Argentina,True
+1959-04-04,Argentina,Brazil,1,1,Copa América,Argentina,False
+1959-12-06,Ecuador,Uruguay,0,4,Copa América,Ecuador,False
+1959-12-12,Ecuador,Argentina,1,1,Copa América,Ecuador,False
+1959-12-19,Ecuador,Brazil,1,3,Copa América,Ecuador,False
+1959-12-25,Ecuador,Paraguay,3,1,Copa América,Ecuador,True
+1960-07-06,France,Yugoslavia,4,5,UEFA Euro,France,False
+1960-07-09,France,Czechoslovakia,0,2,UEFA Euro,France,False
+1960-10-14,South Korea,Vietnam Republic,5,1,AFC Asian Cup,South Korea,True
+1960-10-17,South Korea,Israel,3,0,AFC Asian Cup,South Korea,True
+1960-10-21,South Korea,Taiwan,1,0,AFC Asian Cup,South Korea,True
+1962-01-14,Ethiopia,Tunisia,4,2,African Cup of Nations,Ethiopia,True
+1962-01-21,Ethiopia,Egypt,4,2,African Cup of Nations,Ethiopia,True
+1962-05-30,Chile,Switzerland,3,1,FIFA World Cup,Chile,True
+1962-06-02,Chile,Italy,2,0,FIFA World Cup,Chile,True
+1962-06-06,Chile,Germany,0,2,FIFA World Cup,Chile,False
+1962-06-10,Chile,Russia,2,1,FIFA World Cup,Chile,True
+1962-06-13,Chile,Brazil,2,4,FIFA World Cup,Chile,False
+1962-06-16,Chile,Yugoslavia,1,0,FIFA World Cup,Chile,True
+1963-03-10,Bolivia,Ecuador,4,4,Copa América,Bolivia,False
+1963-03-17,Bolivia,Colombia,2,1,Copa América,Bolivia,True
+1963-03-21,Bolivia,Peru,3,2,Copa América,Bolivia,True
+1963-03-24,Bolivia,Paraguay,2,0,Copa América,Bolivia,True
+1963-03-28,Bolivia,Argentina,3,2,Copa América,Bolivia,True
+1963-03-31,Bolivia,Brazil,5,4,Copa América,Bolivia,True
+1963-11-24,Ghana,Tunisia,1,1,African Cup of Nations,Ghana,False
+1963-11-26,Ghana,Ethiopia,2,0,African Cup of Nations,Ghana,True
+1963-12-01,Ghana,Sudan,3,0,African Cup of Nations,Ghana,True
+1964-05-26,Israel,Hong Kong,1,0,AFC Asian Cup,Israel,True
+1964-05-29,Israel,India,2,0,AFC Asian Cup,Israel,True
+1964-06-03,Israel,South Korea,2,1,AFC Asian Cup,Israel,True
+1964-06-17,Spain,Hungary,2,1,UEFA Euro,Spain,True
+1964-06-21,Spain,Russia,2,1,UEFA Euro,Spain,True
+1965-11-12,Tunisia,Ethiopia,4,0,African Cup of Nations,Tunisia,True
+1965-11-14,Tunisia,Senegal,0,0,African Cup of Nations,Tunisia,False
+1965-11-21,Tunisia,Ghana,2,3,African Cup of Nations,Tunisia,False
+1966-07-11,England,Uruguay,0,0,FIFA World Cup,England,False
+1966-07-16,England,Mexico,2,0,FIFA World Cup,England,True
+1966-07-20,England,France,2,0,FIFA World Cup,England,True
+1966-07-23,England,Argentina,1,0,FIFA World Cup,England,True
+1966-07-26,England,Portugal,2,1,FIFA World Cup,England,True
+1966-07-30,England,Germany,4,2,FIFA World Cup,England,True
+1966-11-30,Chile,Colombia,5,2,Copa América,Chile,True
+1966-12-11,Colombia,Chile,0,0,Copa América,Colombia,False
+1966-12-21,Ecuador,Paraguay,2,2,Copa América,Ecuador,False
+1966-12-28,Paraguay,Ecuador,3,1,Copa América,Paraguay,True
+1967-01-17,Uruguay,Bolivia,4,0,Copa América,Uruguay,True
+1967-01-21,Uruguay,Venezuela,4,0,Copa América,Uruguay,True
+1967-01-26,Uruguay,Chile,2,2,Copa América,Uruguay,False
+1967-01-29,Uruguay,Paraguay,2,0,Copa América,Uruguay,True
+1967-02-02,Uruguay,Argentina,1,0,Copa América,Uruguay,True
+1968-01-12,Ethiopia,Uganda,2,1,African Cup of Nations,Ethiopia,True
+1968-01-14,Ethiopia,Ivory Coast,1,0,African Cup of Nations,Ethiopia,True
+1968-01-16,Ethiopia,Algeria,3,1,African Cup of Nations,Ethiopia,True
+1968-01-19,Ethiopia,DR Congo,2,3,African Cup of Nations,Ethiopia,False
+1968-01-21,Ethiopia,Ivory Coast,0,1,African Cup of Nations,Ethiopia,False
+1968-05-10,Iran,Hong Kong,2,0,AFC Asian Cup,Iran,True
+1968-05-13,Iran,Taiwan,4,0,AFC Asian Cup,Iran,True
+1968-05-16,Iran,Myanmar,3,1,AFC Asian Cup,Iran,True
+1968-05-19,Iran,Israel,2,1,AFC Asian Cup,Iran,True
+1968-06-05,Italy,Russia,0,0,UEFA Euro,Italy,False
+1968-06-08,Italy,Yugoslavia,1,1,UEFA Euro,Italy,False
+1968-06-10,Italy,Yugoslavia,2,0,UEFA Euro,Italy,True
+1970-02-06,Sudan,Ethiopia,3,0,African Cup of Nations,Sudan,True
+1970-02-08,Sudan,Ivory Coast,0,1,African Cup of Nations,Sudan,False
+1970-02-10,Sudan,Cameroon,2,1,African Cup of Nations,Sudan,True
+1970-02-14,Sudan,Egypt,2,1,African Cup of Nations,Sudan,True
+1970-02-16,Sudan,Ghana,1,0,African Cup of Nations,Sudan,True
+1970-05-31,Mexico,Russia,0,0,FIFA World Cup,Mexico,False
+1970-06-07,Mexico,El Salvador,4,0,FIFA World Cup,Mexico,True
+1970-06-11,Mexico,Belgium,1,0,FIFA World Cup,Mexico,True
+1970-06-14,Mexico,Italy,1,4,FIFA World Cup,Mexico,False
+1972-02-23,Cameroon,Kenya,2,1,African Cup of Nations,Cameroon,True
+1972-02-26,Cameroon,Togo,2,0,African Cup of Nations,Cameroon,True
+1972-02-28,Cameroon,Mali,1,1,African Cup of Nations,Cameroon,False
+1972-03-02,Cameroon,Congo,0,1,African Cup of Nations,Cameroon,False
+1972-03-04,Cameroon,DR Congo,5,2,African Cup of Nations,Cameroon,True
+1972-05-08,Thailand,Kuwait,0,2,AFC Asian Cup,Thailand,False
+1972-05-11,Thailand,Iraq,1,1,AFC Asian Cup,Thailand,False
+1972-05-13,Thailand,Iran,2,3,AFC Asian Cup,Thailand,False
+1972-05-17,Thailand,South Korea,1,1,AFC Asian Cup,Thailand,False
+1972-05-19,Thailand,Cambodia,2,2,AFC Asian Cup,Thailand,False
+1972-06-14,Belgium,Germany,1,2,UEFA Euro,Belgium,False
+1972-06-17,Belgium,Hungary,2,1,UEFA Euro,Belgium,True
+1974-03-01,Egypt,Uganda,2,1,African Cup of Nations,Egypt,True
+1974-03-04,Egypt,Zambia,3,1,African Cup of Nations,Egypt,True
+1974-03-06,Egypt,Ivory Coast,2,0,African Cup of Nations,Egypt,True
+1974-03-09,Egypt,DR Congo,2,3,African Cup of Nations,Egypt,False
+1974-03-11,Egypt,Congo,4,0,African Cup of Nations,Egypt,True
+1974-06-14,Germany,Chile,1,0,FIFA World Cup,Germany,True
+1974-06-18,Germany,Australia,3,0,FIFA World Cup,Germany,True
+1974-06-22,Germany,German DR,0,1,FIFA World Cup,Germany,False
+1974-06-26,Germany,Yugoslavia,2,0,FIFA World Cup,Germany,True
+1974-06-30,Germany,Sweden,4,2,FIFA World Cup,Germany,True
+1974-07-03,Germany,Poland,1,0,FIFA World Cup,Germany,True
+1974-07-07,Germany,Netherlands,2,1,FIFA World Cup,Germany,True
+1975-07-17,Chile,Peru,1,1,Copa América,Chile,False
+1975-07-20,Bolivia,Chile,2,1,Copa América,Bolivia,True
+1975-07-20,Colombia,Paraguay,1,0,Copa América,Colombia,True
+1975-07-24,Ecuador,Paraguay,2,2,Copa América,Ecuador,False
+1975-07-27,Bolivia,Peru,0,1,Copa América,Bolivia,False
+1975-07-27,Ecuador,Colombia,1,3,Copa América,Ecuador,False
+1975-07-30,Paraguay,Colombia,0,1,Copa América,Paraguay,False
+1975-07-31,Venezuela,Brazil,0,4,Copa América,Venezuela,False
+1975-08-03,Venezuela,Argentina,1,5,Copa América,Venezuela,False
+1975-08-06,Brazil,Argentina,2,1,Copa América,Brazil,True
+1975-08-07,Colombia,Ecuador,2,0,Copa América,Colombia,True
+1975-08-07,Peru,Bolivia,3,1,Copa América,Peru,True
+1975-08-10,Argentina,Venezuela,11,0,Copa América,Argentina,True
+1975-08-10,Paraguay,Ecuador,3,1,Copa América,Paraguay,True
+1975-08-13,Brazil,Venezuela,6,0,Copa América,Brazil,True
+1975-08-13,Chile,Bolivia,4,0,Copa América,Chile,True
+1975-08-16,Argentina,Brazil,0,1,Copa América,Argentina,False
+1975-08-20,Peru,Chile,3,1,Copa América,Peru,True
+1975-09-21,Colombia,Uruguay,3,0,Copa América,Colombia,True
+1975-09-30,Brazil,Peru,1,3,Copa América,Brazil,False
+1975-10-01,Uruguay,Colombia,1,0,Copa América,Uruguay,True
+1975-10-04,Peru,Brazil,0,2,Copa América,Peru,False
+1975-10-16,Colombia,Peru,1,0,Copa América,Colombia,True
+1975-10-22,Peru,Colombia,2,0,Copa América,Peru,True
+1976-02-29,Ethiopia,Uganda,2,0,African Cup of Nations,Ethiopia,True
+1976-03-03,Ethiopia,Guinea,1,2,African Cup of Nations,Ethiopia,False
+1976-03-05,Ethiopia,Egypt,1,1,African Cup of Nations,Ethiopia,False
+1976-06-04,Iran,Iraq,2,0,AFC Asian Cup,Iran,True
+1976-06-08,Iran,Yemen DPR,8,0,AFC Asian Cup,Iran,True
+1976-06-11,Iran,China PR,2,0,AFC Asian Cup,Iran,True
+1976-06-13,Iran,Kuwait,1,0,AFC Asian Cup,Iran,True
+1976-06-17,Yugoslavia,Germany,2,4,UEFA Euro,Yugoslavia,False
+1976-06-19,Yugoslavia,Netherlands,2,3,UEFA Euro,Yugoslavia,False
+1978-03-05,Ghana,Zambia,2,1,African Cup of Nations,Ghana,True
+1978-03-08,Ghana,Nigeria,1,1,African Cup of Nations,Ghana,False
+1978-03-10,Ghana,Burkina Faso,3,0,African Cup of Nations,Ghana,True
+1978-03-14,Ghana,Tunisia,1,0,African Cup of Nations,Ghana,True
+1978-03-16,Ghana,Uganda,2,0,African Cup of Nations,Ghana,True
+1978-06-02,Argentina,Hungary,2,1,FIFA World Cup,Argentina,True
+1978-06-06,Argentina,France,2,1,FIFA World Cup,Argentina,True
+1978-06-10,Argentina,Italy,0,1,FIFA World Cup,Argentina,False
+1978-06-14,Argentina,Poland,2,0,FIFA World Cup,Argentina,True
+1978-06-18,Argentina,Brazil,0,0,FIFA World Cup,Argentina,False
+1978-06-21,Argentina,Peru,6,0,FIFA World Cup,Argentina,True
+1978-06-25,Argentina,Netherlands,3,1,FIFA World Cup,Argentina,True
+1979-07-18,Bolivia,Argentina,2,1,Copa América,Bolivia,True
+1979-07-26,Bolivia,Brazil,2,1,Copa América,Bolivia,True
+1979-08-01,Venezuela,Colombia,0,0,Copa América,Venezuela,False
+1979-08-02,Brazil,Argentina,2,1,Copa América,Brazil,True
+1979-08-08,Argentina,Bolivia,3,0,Copa América,Argentina,True
+1979-08-08,Venezuela,Chile,1,1,Copa América,Venezuela,False
+1979-08-15,Colombia,Chile,1,0,Copa América,Colombia,True
+1979-08-16,Brazil,Bolivia,2,0,Copa América,Brazil,True
+1979-08-22,Colombia,Venezuela,4,0,Copa América,Colombia,True
+1979-08-23,Argentina,Brazil,2,2,Copa América,Argentina,False
+1979-08-29,Chile,Venezuela,7,0,Copa América,Chile,True
+1979-08-29,Ecuador,Paraguay,1,2,Copa América,Ecuador,False
+1979-09-05,Chile,Colombia,2,0,Copa América,Chile,True
+1979-09-05,Ecuador,Uruguay,2,1,Copa América,Ecuador,True
+1979-09-13,Paraguay,Ecuador,2,0,Copa América,Paraguay,True
+1979-09-16,Uruguay,Ecuador,2,1,Copa América,Uruguay,True
+1979-09-20,Paraguay,Uruguay,0,0,Copa América,Paraguay,False
+1979-09-26,Uruguay,Paraguay,2,2,Copa América,Uruguay,False
+1979-10-17,Peru,Chile,1,2,Copa América,Peru,False
+1979-10-24,Chile,Peru,0,0,Copa América,Chile,False
+1979-10-24,Paraguay,Brazil,2,1,Copa América,Paraguay,True
+1979-10-31,Brazil,Paraguay,2,2,Copa América,Brazil,False
+1979-11-28,Paraguay,Chile,3,0,Copa América,Paraguay,True
+1979-12-05,Chile,Paraguay,1,0,Copa América,Chile,True
+1980-03-08,Nigeria,Tanzania,3,1,African Cup of Nations,Nigeria,True
+1980-03-12,Nigeria,Ivory Coast,0,0,African Cup of Nations,Nigeria,False
+1980-03-15,Nigeria,Egypt,1,0,African Cup of Nations,Nigeria,True
+1980-03-19,Nigeria,Morocco,1,0,African Cup of Nations,Nigeria,True
+1980-03-22,Nigeria,Algeria,3,0,African Cup of Nations,Nigeria,True
+1980-06-12,Italy,Spain,0,0,UEFA Euro,Italy,False
+1980-06-15,Italy,England,1,0,UEFA Euro,Italy,True
+1980-06-18,Italy,Belgium,0,0,UEFA Euro,Italy,False
+1980-06-21,Italy,Czechoslovakia,1,1,UEFA Euro,Italy,False
+1980-09-15,Kuwait,United Arab Emirates,1,1,AFC Asian Cup,Kuwait,False
+1980-09-18,Kuwait,Malaysia,3,1,AFC Asian Cup,Kuwait,True
+1980-09-21,Kuwait,South Korea,0,3,AFC Asian Cup,Kuwait,False
+1980-09-25,Kuwait,Qatar,4,0,AFC Asian Cup,Kuwait,True
+1980-09-28,Kuwait,Iran,2,1,AFC Asian Cup,Kuwait,True
+1980-09-30,Kuwait,South Korea,3,0,AFC Asian Cup,Kuwait,True
+1982-03-05,Libya,Ghana,2,2,African Cup of Nations,Libya,False
+1982-03-09,Libya,Tunisia,2,0,African Cup of Nations,Libya,True
+1982-03-12,Libya,Cameroon,0,0,African Cup of Nations,Libya,False
+1982-03-16,Libya,Zambia,2,1,African Cup of Nations,Libya,True
+1982-03-19,Libya,Ghana,1,1,African Cup of Nations,Libya,False
+1982-06-16,Spain,Honduras,1,1,FIFA World Cup,Spain,False
+1982-06-20,Spain,Yugoslavia,2,1,FIFA World Cup,Spain,True
+1982-06-25,Spain,Northern Ireland,0,1,FIFA World Cup,Spain,False
+1982-07-02,Spain,Germany,1,2,FIFA World Cup,Spain,False
+1982-07-05,Spain,England,0,0,FIFA World Cup,Spain,False
+1983-08-10,Ecuador,Argentina,2,2,Copa América,Ecuador,False
+1983-08-14,Bolivia,Colombia,0,1,Copa América,Bolivia,False
+1983-08-17,Ecuador,Brazil,0,1,Copa América,Ecuador,False
+1983-08-17,Peru,Colombia,1,0,Copa América,Peru,True
+1983-08-21,Bolivia,Peru,1,1,Copa América,Bolivia,False
+1983-08-24,Argentina,Brazil,1,0,Copa América,Argentina,True
+1983-08-28,Colombia,Peru,2,2,Copa América,Colombia,False
+1983-08-31,Colombia,Bolivia,2,2,Copa América,Colombia,False
+1983-09-01,Brazil,Ecuador,5,0,Copa América,Brazil,True
+1983-09-01,Uruguay,Chile,2,1,Copa América,Uruguay,True
+1983-09-04,Peru,Bolivia,2,1,Copa América,Peru,True
+1983-09-04,Uruguay,Venezuela,3,0,Copa América,Uruguay,True
+1983-09-07,Argentina,Ecuador,2,2,Copa América,Argentina,False
+1983-09-08,Chile,Venezuela,5,0,Copa América,Chile,True
+1983-09-11,Chile,Uruguay,2,0,Copa América,Chile,True
+1983-09-14,Brazil,Argentina,0,0,Copa América,Brazil,False
+1983-09-18,Venezuela,Uruguay,1,2,Copa América,Venezuela,False
+1983-09-21,Venezuela,Chile,0,0,Copa América,Venezuela,False
+1983-10-13,Paraguay,Brazil,1,1,Copa América,Paraguay,False
+1983-10-13,Peru,Uruguay,0,1,Copa América,Peru,False
+1983-10-20,Brazil,Paraguay,0,0,Copa América,Brazil,False
+1983-10-20,Uruguay,Peru,1,1,Copa América,Uruguay,False
+1983-10-27,Uruguay,Brazil,2,0,Copa América,Uruguay,True
+1983-11-04,Brazil,Uruguay,1,1,Copa América,Brazil,False
+1984-03-04,Ivory Coast,Togo,3,0,African Cup of Nations,Ivory Coast,True
+1984-03-07,Ivory Coast,Egypt,1,2,African Cup of Nations,Ivory Coast,False
+1984-03-10,Ivory Coast,Cameroon,0,2,African Cup of Nations,Ivory Coast,False
+1984-06-12,France,Denmark,1,0,UEFA Euro,France,True
+1984-06-16,France,Belgium,5,0,UEFA Euro,France,True
+1984-06-19,France,Yugoslavia,3,2,UEFA Euro,France,True
+1984-06-23,France,Portugal,3,2,UEFA Euro,France,True
+1984-06-27,France,Spain,2,0,UEFA Euro,France,True
+1984-12-02,Singapore,India,2,0,AFC Asian Cup,Singapore,True
+1984-12-05,Singapore,China PR,0,2,AFC Asian Cup,Singapore,False
+1984-12-08,Singapore,United Arab Emirates,0,1,AFC Asian Cup,Singapore,False
+1984-12-10,Singapore,Iran,1,1,AFC Asian Cup,Singapore,False
+1986-03-07,Egypt,Senegal,0,1,African Cup of Nations,Egypt,False
+1986-03-10,Egypt,Ivory Coast,2,0,African Cup of Nations,Egypt,True
+1986-03-13,Egypt,Mozambique,2,0,African Cup of Nations,Egypt,True
+1986-03-17,Egypt,Morocco,1,0,African Cup of Nations,Egypt,True
+1986-03-21,Egypt,Cameroon,0,0,African Cup of Nations,Egypt,False
+1986-06-03,Mexico,Belgium,2,1,FIFA World Cup,Mexico,True
+1986-06-07,Mexico,Paraguay,1,1,FIFA World Cup,Mexico,False
+1986-06-11,Mexico,Iraq,1,0,FIFA World Cup,Mexico,True
+1986-06-15,Mexico,Bulgaria,2,0,FIFA World Cup,Mexico,True
+1986-06-21,Mexico,Germany,0,0,FIFA World Cup,Mexico,False
+1987-06-27,Argentina,Peru,1,1,Copa América,Argentina,False
+1987-07-02,Argentina,Ecuador,3,0,Copa América,Argentina,True
+1987-07-09,Argentina,Uruguay,0,1,Copa América,Argentina,False
+1987-07-11,Argentina,Colombia,1,2,Copa América,Argentina,False
+1988-03-13,Morocco,DR Congo,1,1,African Cup of Nations,Morocco,False
+1988-03-16,Morocco,Algeria,1,0,African Cup of Nations,Morocco,True
+1988-03-19,Morocco,Ivory Coast,0,0,African Cup of Nations,Morocco,False
+1988-03-23,Morocco,Cameroon,0,1,African Cup of Nations,Morocco,False
+1988-03-26,Morocco,Algeria,1,1,African Cup of Nations,Morocco,False
+1988-06-10,Germany,Italy,1,1,UEFA Euro,Germany,False
+1988-06-14,Germany,Denmark,2,0,UEFA Euro,Germany,True
+1988-06-17,Germany,Spain,2,0,UEFA Euro,Germany,True
+1988-06-21,Germany,Netherlands,1,2,UEFA Euro,Germany,False
+1988-12-02,Qatar,Iran,0,2,AFC Asian Cup,Qatar,False
+1988-12-05,Qatar,United Arab Emirates,2,1,AFC Asian Cup,Qatar,True
+1988-12-09,Qatar,South Korea,2,3,AFC Asian Cup,Qatar,False
+1988-12-12,Qatar,Japan,3,0,AFC Asian Cup,Qatar,True
+1989-07-01,Brazil,Venezuela,3,1,Copa América,Brazil,True
+1989-07-03,Brazil,Peru,0,0,Copa América,Brazil,False
+1989-07-07,Brazil,Colombia,0,0,Copa América,Brazil,False
+1989-07-09,Brazil,Paraguay,2,0,Copa América,Brazil,True
+1989-07-12,Brazil,Argentina,2,0,Copa América,Brazil,True
+1989-07-14,Brazil,Paraguay,3,0,Copa América,Brazil,True
+1989-07-16,Brazil,Uruguay,1,0,Copa América,Brazil,True
+1990-03-02,Algeria,Nigeria,5,1,African Cup of Nations,Algeria,True
+1990-03-05,Algeria,Ivory Coast,3,0,African Cup of Nations,Algeria,True
+1990-03-08,Algeria,Egypt,2,0,African Cup of Nations,Algeria,True
+1990-03-12,Algeria,Senegal,2,1,African Cup of Nations,Algeria,True
+1990-03-16,Algeria,Nigeria,1,0,African Cup of Nations,Algeria,True
+1990-06-09,Italy,Austria,1,0,FIFA World Cup,Italy,True
+1990-06-14,Italy,United States,1,0,FIFA World Cup,Italy,True
+1990-06-19,Italy,Czechoslovakia,2,0,FIFA World Cup,Italy,True
+1990-06-25,Italy,Uruguay,2,0,FIFA World Cup,Italy,True
+1990-06-30,Italy,Republic of Ireland,1,0,FIFA World Cup,Italy,True
+1990-07-03,Italy,Argentina,1,1,FIFA World Cup,Italy,False
+1990-07-07,Italy,England,2,1,FIFA World Cup,Italy,True
+1991-07-06,Chile,Venezuela,2,0,Copa América,Chile,True
+1991-07-08,Chile,Peru,4,2,Copa América,Chile,True
+1991-07-10,Chile,Argentina,0,1,Copa América,Chile,False
+1991-07-14,Chile,Paraguay,4,0,Copa América,Chile,True
+1991-07-17,Chile,Colombia,1,1,Copa América,Chile,False
+1991-07-19,Chile,Argentina,0,0,Copa América,Chile,False
+1991-07-21,Chile,Brazil,0,2,Copa América,Chile,False
+1992-01-12,Senegal,Nigeria,1,2,African Cup of Nations,Senegal,False
+1992-01-16,Senegal,Kenya,3,0,African Cup of Nations,Senegal,True
+1992-01-19,Senegal,Cameroon,0,1,African Cup of Nations,Senegal,False
+1992-06-10,Sweden,France,1,1,UEFA Euro,Sweden,False
+1992-06-14,Sweden,Denmark,1,0,UEFA Euro,Sweden,True
+1992-06-17,Sweden,England,2,1,UEFA Euro,Sweden,True
+1992-06-21,Sweden,Germany,2,3,UEFA Euro,Sweden,False
+1992-10-30,Japan,United Arab Emirates,0,0,AFC Asian Cup,Japan,False
+1992-11-01,Japan,North Korea,1,1,AFC Asian Cup,Japan,False
+1992-11-03,Japan,Iran,1,0,AFC Asian Cup,Japan,True
+1992-11-06,Japan,China PR,3,2,AFC Asian Cup,Japan,True
+1992-11-08,Japan,Saudi Arabia,1,0,AFC Asian Cup,Japan,True
+1993-06-15,Ecuador,Venezuela,6,1,Copa América,Ecuador,True
+1993-06-19,Ecuador,United States,2,0,Copa América,Ecuador,True
+1993-06-22,Ecuador,Uruguay,2,1,Copa América,Ecuador,True
+1993-06-26,Ecuador,Paraguay,3,0,Copa América,Ecuador,True
+1993-06-30,Ecuador,Mexico,0,2,Copa América,Ecuador,False
+1993-07-03,Ecuador,Colombia,0,1,Copa América,Ecuador,False
+1994-03-26,Tunisia,Mali,0,2,African Cup of Nations,Tunisia,False
+1994-03-30,Tunisia,DR Congo,1,1,African Cup of Nations,Tunisia,False
+1994-06-18,United States,Switzerland,1,1,FIFA World Cup,United States,False
+1994-06-22,United States,Colombia,2,1,FIFA World Cup,United States,True
+1994-06-26,United States,Romania,0,1,FIFA World Cup,United States,False
+1994-07-04,United States,Brazil,0,1,FIFA World Cup,United States,False
+1995-07-05,Uruguay,Venezuela,4,1,Copa América,Uruguay,True
+1995-07-09,Uruguay,Paraguay,1,0,Copa América,Uruguay,True
+1995-07-13,Uruguay,Mexico,1,1,Copa América,Uruguay,False
+1995-07-16,Uruguay,Bolivia,2,1,Copa América,Uruguay,True
+1995-07-19,Uruguay,Colombia,2,0,Copa América,Uruguay,True
+1995-07-23,Uruguay,Brazil,1,1,Copa América,Uruguay,False
+1996-01-13,South Africa,Cameroon,3,0,African Cup of Nations,South Africa,True
+1996-01-20,South Africa,Angola,1,0,African Cup of Nations,South Africa,True
+1996-01-24,South Africa,Egypt,0,1,African Cup of Nations,South Africa,False
+1996-01-27,South Africa,Algeria,2,1,African Cup of Nations,South Africa,True
+1996-01-31,South Africa,Ghana,3,0,African Cup of Nations,South Africa,True
+1996-02-03,South Africa,Tunisia,2,0,African Cup of Nations,South Africa,True
+1996-06-08,England,Switzerland,1,1,UEFA Euro,England,False
+1996-06-15,England,Scotland,2,0,UEFA Euro,England,True
+1996-06-18,England,Netherlands,4,1,UEFA Euro,England,True
+1996-06-22,England,Spain,0,0,UEFA Euro,England,False
+1996-06-26,England,Germany,1,1,UEFA Euro,England,False
+1996-12-04,United Arab Emirates,South Korea,1,1,AFC Asian Cup,United Arab Emirates,False
+1996-12-07,United Arab Emirates,Kuwait,3,2,AFC Asian Cup,United Arab Emirates,True
+1996-12-10,United Arab Emirates,Indonesia,2,0,AFC Asian Cup,United Arab Emirates,True
+1996-12-15,United Arab Emirates,Iraq,1,0,AFC Asian Cup,United Arab Emirates,True
+1996-12-19,United Arab Emirates,Kuwait,1,0,AFC Asian Cup,United Arab Emirates,True
+1996-12-21,United Arab Emirates,Saudi Arabia,0,0,AFC Asian Cup,United Arab Emirates,False
+1997-06-12,Bolivia,Venezuela,1,0,Copa América,Bolivia,True
+1997-06-15,Bolivia,Peru,2,0,Copa América,Bolivia,True
+1997-06-18,Bolivia,Uruguay,1,0,Copa América,Bolivia,True
+1997-06-21,Bolivia,Colombia,2,1,Copa América,Bolivia,True
+1997-06-25,Bolivia,Mexico,3,1,Copa América,Bolivia,True
+1997-06-29,Bolivia,Brazil,1,3,Copa América,Bolivia,False
+1998-02-07,Burkina Faso,Cameroon,0,1,African Cup of Nations,Burkina Faso,False
+1998-02-11,Burkina Faso,Algeria,2,1,African Cup of Nations,Burkina Faso,True
+1998-02-15,Burkina Faso,Guinea,1,0,African Cup of Nations,Burkina Faso,True
+1998-02-21,Burkina Faso,Tunisia,1,1,African Cup of Nations,Burkina Faso,False
+1998-02-25,Burkina Faso,Egypt,0,2,African Cup of Nations,Burkina Faso,False
+1998-02-27,Burkina Faso,DR Congo,4,4,African Cup of Nations,Burkina Faso,False
+1998-06-12,France,South Africa,3,0,FIFA World Cup,France,True
+1998-06-18,France,Saudi Arabia,4,0,FIFA World Cup,France,True
+1998-06-24,France,Denmark,2,1,FIFA World Cup,France,True
+1998-06-28,France,Paraguay,1,0,FIFA World Cup,France,True
+1998-07-03,France,Italy,0,0,FIFA World Cup,France,False
+1998-07-08,France,Croatia,2,1,FIFA World Cup,France,True
+1998-07-12,France,Brazil,3,0,FIFA World Cup,France,True
+1999-06-29,Paraguay,Bolivia,0,0,Copa América,Paraguay,False
+1999-07-02,Paraguay,Japan,4,0,Copa América,Paraguay,True
+1999-07-05,Paraguay,Peru,1,0,Copa América,Paraguay,True
+1999-07-10,Paraguay,Uruguay,1,1,Copa América,Paraguay,False
+2000-01-22,Ghana,Cameroon,1,1,African Cup of Nations,Ghana,False
+2000-01-23,Nigeria,Tunisia,4,2,African Cup of Nations,Nigeria,True
+2000-01-27,Ghana,Togo,2,0,African Cup of Nations,Ghana,True
+2000-01-28,Nigeria,Congo,0,0,African Cup of Nations,Nigeria,False
+2000-01-31,Ghana,Ivory Coast,0,2,African Cup of Nations,Ghana,False
+2000-02-03,Nigeria,Morocco,2,0,African Cup of Nations,Nigeria,True
+2000-02-06,Ghana,South Africa,0,1,African Cup of Nations,Ghana,False
+2000-02-07,Nigeria,Senegal,2,1,African Cup of Nations,Nigeria,True
+2000-02-10,Nigeria,South Africa,2,0,African Cup of Nations,Nigeria,True
+2000-02-13,Nigeria,Cameroon,2,2,African Cup of Nations,Nigeria,False
+2000-06-10,Belgium,Sweden,2,1,UEFA Euro,Belgium,True
+2000-06-11,Netherlands,Czech Republic,1,0,UEFA Euro,Netherlands,True
+2000-06-14,Belgium,Italy,0,2,UEFA Euro,Belgium,False
+2000-06-16,Netherlands,Denmark,3,0,UEFA Euro,Netherlands,True
+2000-06-19,Belgium,Turkey,0,2,UEFA Euro,Belgium,False
+2000-06-21,Netherlands,France,3,2,UEFA Euro,Netherlands,True
+2000-06-25,Netherlands,Serbia,6,1,UEFA Euro,Netherlands,True
+2000-06-29,Netherlands,Italy,0,0,UEFA Euro,Netherlands,False
+2000-10-12,Lebanon,Iran,0,4,AFC Asian Cup,Lebanon,False
+2000-10-15,Lebanon,Iraq,2,2,AFC Asian Cup,Lebanon,False
+2000-10-18,Lebanon,Thailand,1,1,AFC Asian Cup,Lebanon,False
+2001-07-11,Colombia,Venezuela,2,0,Copa América,Colombia,True
+2001-07-14,Colombia,Ecuador,1,0,Copa América,Colombia,True
+2001-07-17,Colombia,Chile,2,0,Copa América,Colombia,True
+2001-07-23,Colombia,Peru,3,0,Copa América,Colombia,True
+2001-07-26,Colombia,Honduras,2,0,Copa América,Colombia,True
+2001-07-29,Colombia,Mexico,1,0,Copa América,Colombia,True
+2002-01-19,Mali,Liberia,1,1,African Cup of Nations,Mali,False
+2002-01-24,Mali,Nigeria,0,0,African Cup of Nations,Mali,False
+2002-01-28,Mali,Algeria,2,0,African Cup of Nations,Mali,True
+2002-02-03,Mali,South Africa,2,0,African Cup of Nations,Mali,True
+2002-02-07,Mali,Cameroon,0,3,African Cup of Nations,Mali,False
+2002-02-09,Mali,Nigeria,0,1,African Cup of Nations,Mali,False
+2002-06-04,Japan,Belgium,2,2,FIFA World Cup,Japan,False
+2002-06-04,South Korea,Poland,2,0,FIFA World Cup,South Korea,True
+2002-06-09,Japan,Russia,1,0,FIFA World Cup,Japan,True
+2002-06-10,South Korea,United States,1,1,FIFA World Cup,South Korea,False
+2002-06-14,Japan,Tunisia,2,0,FIFA World Cup,Japan,True
+2002-06-14,South Korea,Portugal,1,0,FIFA World Cup,South Korea,True
+2002-06-18,Japan,Turkey,0,1,FIFA World Cup,Japan,False
+2002-06-18,South Korea,Italy,2,1,FIFA World Cup,South Korea,True
+2002-06-22,South Korea,Spain,0,0,FIFA World Cup,South Korea,False
+2002-06-25,South Korea,Germany,0,1,FIFA World Cup,South Korea,False
+2002-06-29,South Korea,Turkey,2,3,FIFA World Cup,South Korea,False
+2004-01-24,Tunisia,Rwanda,2,1,African Cup of Nations,Tunisia,True
+2004-01-28,Tunisia,DR Congo,3,0,African Cup of Nations,Tunisia,True
+2004-02-01,Tunisia,Guinea,1,1,African Cup of Nations,Tunisia,False
+2004-02-07,Tunisia,Senegal,1,0,African Cup of Nations,Tunisia,True
+2004-02-11,Tunisia,Nigeria,1,1,African Cup of Nations,Tunisia,False
+2004-02-14,Tunisia,Morocco,2,1,African Cup of Nations,Tunisia,True
+2004-06-12,Portugal,Greece,1,2,UEFA Euro,Portugal,False
+2004-06-16,Portugal,Russia,2,0,UEFA Euro,Portugal,True
+2004-06-20,Portugal,Spain,1,0,UEFA Euro,Portugal,True
+2004-06-24,Portugal,England,2,2,UEFA Euro,Portugal,False
+2004-06-30,Portugal,Netherlands,2,1,UEFA Euro,Portugal,True
+2004-07-04,Portugal,Greece,0,1,UEFA Euro,Portugal,False
+2004-07-06,Peru,Bolivia,2,2,Copa América,Peru,False
+2004-07-09,Peru,Venezuela,3,1,Copa América,Peru,True
+2004-07-12,Peru,Colombia,2,2,Copa América,Peru,False
+2004-07-17,China PR,Bahrain,2,2,AFC Asian Cup,China PR,False
+2004-07-17,Peru,Argentina,0,1,Copa América,Peru,False
+2004-07-21,China PR,Indonesia,5,0,AFC Asian Cup,China PR,True
+2004-07-25,China PR,Qatar,1,0,AFC Asian Cup,China PR,True
+2004-07-30,China PR,Iraq,3,0,AFC Asian Cup,China PR,True
+2004-08-03,China PR,Iran,1,1,AFC Asian Cup,China PR,False
+2004-08-07,China PR,Japan,1,3,AFC Asian Cup,China PR,False
+2006-01-20,Egypt,Libya,3,0,African Cup of Nations,Egypt,True
+2006-01-24,Egypt,Morocco,0,0,African Cup of Nations,Egypt,False
+2006-01-28,Egypt,Ivory Coast,3,1,African Cup of Nations,Egypt,True
+2006-02-03,Egypt,DR Congo,4,1,African Cup of Nations,Egypt,True
+2006-02-07,Egypt,Senegal,2,1,African Cup of Nations,Egypt,True
+2006-02-10,Egypt,Ivory Coast,0,0,African Cup of Nations,Egypt,False
+2006-06-09,Germany,Costa Rica,4,2,FIFA World Cup,Germany,True
+2006-06-14,Germany,Poland,1,0,FIFA World Cup,Germany,True
+2006-06-20,Germany,Ecuador,3,0,FIFA World Cup,Germany,True
+2006-06-24,Germany,Sweden,2,0,FIFA World Cup,Germany,True
+2006-06-30,Germany,Argentina,1,1,FIFA World Cup,Germany,False
+2006-07-04,Germany,Italy,0,2,FIFA World Cup,Germany,False
+2006-07-08,Germany,Portugal,3,1,FIFA World Cup,Germany,True
+2007-06-26,Venezuela,Bolivia,2,2,Copa América,Venezuela,False
+2007-06-30,Venezuela,Peru,2,0,Copa América,Venezuela,True
+2007-07-03,Venezuela,Uruguay,0,0,Copa América,Venezuela,False
+2007-07-07,Thailand,Iraq,1,1,AFC Asian Cup,Thailand,False
+2007-07-07,Venezuela,Uruguay,1,4,Copa América,Venezuela,False
+2007-07-08,Vietnam,United Arab Emirates,2,0,AFC Asian Cup,Vietnam,True
+2007-07-10,Indonesia,Bahrain,2,1,AFC Asian Cup,Indonesia,True
+2007-07-10,Malaysia,China PR,1,5,AFC Asian Cup,Malaysia,False
+2007-07-12,Thailand,Oman,2,0,AFC Asian Cup,Thailand,True
+2007-07-12,Vietnam,Qatar,1,1,AFC Asian Cup,Vietnam,False
+2007-07-14,Indonesia,Saudi Arabia,1,2,AFC Asian Cup,Indonesia,False
+2007-07-14,Malaysia,Uzbekistan,0,5,AFC Asian Cup,Malaysia,False
+2007-07-16,Thailand,Australia,0,4,AFC Asian Cup,Thailand,False
+2007-07-16,Vietnam,Japan,1,4,AFC Asian Cup,Vietnam,False
+2007-07-18,Indonesia,South Korea,0,1,AFC Asian Cup,Indonesia,False
+2007-07-18,Malaysia,Iran,0,2,AFC Asian Cup,Malaysia,False
+2008-01-20,Ghana,Guinea,2,1,African Cup of Nations,Ghana,True
+2008-01-24,Ghana,Namibia,1,0,African Cup of Nations,Ghana,True
+2008-01-28,Ghana,Morocco,2,0,African Cup of Nations,Ghana,True
+2008-02-03,Ghana,Nigeria,2,1,African Cup of Nations,Ghana,True
+2008-02-07,Ghana,Cameroon,0,1,African Cup of Nations,Ghana,False
+2008-02-09,Ghana,Ivory Coast,4,2,African Cup of Nations,Ghana,True
+2008-06-07,Switzerland,Czech Republic,0,1,UEFA Euro,Switzerland,False
+2008-06-08,Austria,Croatia,0,1,UEFA Euro,Austria,False
+2008-06-11,Switzerland,Turkey,1,2,UEFA Euro,Switzerland,False
+2008-06-12,Austria,Poland,1,1,UEFA Euro,Austria,False
+2008-06-15,Switzerland,Portugal,2,0,UEFA Euro,Switzerland,True
+2008-06-16,Austria,Germany,0,1,UEFA Euro,Austria,False
+2010-01-10,Angola,Mali,4,4,African Cup of Nations,Angola,False
+2010-01-14,Angola,Malawi,2,0,African Cup of Nations,Angola,True
+2010-01-18,Angola,Algeria,0,0,African Cup of Nations,Angola,False
+2010-01-24,Angola,Ghana,0,1,African Cup of Nations,Angola,False
+2010-06-11,South Africa,Mexico,1,1,FIFA World Cup,South Africa,False
+2010-06-16,South Africa,Uruguay,0,3,FIFA World Cup,South Africa,False
+2010-06-22,South Africa,France,2,1,FIFA World Cup,South Africa,True
+2011-01-07,Qatar,Uzbekistan,0,2,AFC Asian Cup,Qatar,False
+2011-01-12,Qatar,China PR,2,0,AFC Asian Cup,Qatar,True
+2011-01-16,Qatar,Kuwait,3,0,AFC Asian Cup,Qatar,True
+2011-01-21,Qatar,Japan,2,3,AFC Asian Cup,Qatar,False
+2011-07-01,Argentina,Bolivia,1,1,Copa América,Argentina,False
+2011-07-06,Argentina,Colombia,0,0,Copa América,Argentina,False
+2011-07-11,Argentina,Costa Rica,3,0,Copa América,Argentina,True
+2011-07-16,Argentina,Uruguay,1,1,Copa América,Argentina,False
+2012-01-21,Equatorial Guinea,Libya,1,0,African Cup of Nations,Equatorial Guinea,True
+2012-01-23,Gabon,Niger,2,0,African Cup of Nations,Gabon,True
+2012-01-25,Equatorial Guinea,Senegal,2,1,African Cup of Nations,Equatorial Guinea,True
+2012-01-27,Gabon,Morocco,3,2,African Cup of Nations,Gabon,True
+2012-01-29,Equatorial Guinea,Zambia,0,1,African Cup of Nations,Equatorial Guinea,False
+2012-01-31,Gabon,Tunisia,1,0,African Cup of Nations,Gabon,True
+2012-02-04,Equatorial Guinea,Ivory Coast,0,3,African Cup of Nations,Equatorial Guinea,False
+2012-02-05,Gabon,Mali,1,1,African Cup of Nations,Gabon,False
+2012-06-08,Poland,Greece,1,1,UEFA Euro,Poland,False
+2012-06-11,Ukraine,Sweden,2,1,UEFA Euro,Ukraine,True
+2012-06-12,Poland,Russia,1,1,UEFA Euro,Poland,False
+2012-06-15,Ukraine,France,0,2,UEFA Euro,Ukraine,False
+2012-06-16,Poland,Czech Republic,0,1,UEFA Euro,Poland,False
+2012-06-19,Ukraine,England,0,1,UEFA Euro,Ukraine,False
+2013-01-19,South Africa,Cape Verde,0,0,African Cup of Nations,South Africa,False
+2013-01-23,South Africa,Angola,2,0,African Cup of Nations,South Africa,True
+2013-01-27,South Africa,Morocco,2,2,African Cup of Nations,South Africa,False
+2013-02-02,South Africa,Mali,1,1,African Cup of Nations,South Africa,False
+2014-06-12,Brazil,Croatia,3,1,FIFA World Cup,Brazil,True
+2014-06-17,Brazil,Mexico,0,0,FIFA World Cup,Brazil,False
+2014-06-23,Brazil,Cameroon,4,1,FIFA World Cup,Brazil,True
+2014-06-28,Brazil,Chile,1,1,FIFA World Cup,Brazil,False
+2014-07-04,Brazil,Colombia,2,1,FIFA World Cup,Brazil,True
+2014-07-08,Brazil,Germany,1,7,FIFA World Cup,Brazil,False
+2014-07-12,Brazil,Netherlands,0,3,FIFA World Cup,Brazil,False
+2015-01-09,Australia,Kuwait,4,1,AFC Asian Cup,Australia,True
+2015-01-13,Australia,Oman,4,0,AFC Asian Cup,Australia,True
+2015-01-17,Australia,South Korea,0,1,AFC Asian Cup,Australia,False
+2015-01-17,Equatorial Guinea,Congo,1,1,African Cup of Nations,Equatorial Guinea,False
+2015-01-21,Equatorial Guinea,Burkina Faso,0,0,African Cup of Nations,Equatorial Guinea,False
+2015-01-22,Australia,China PR,2,0,AFC Asian Cup,Australia,True
+2015-01-25,Equatorial Guinea,Gabon,2,0,African Cup of Nations,Equatorial Guinea,True
+2015-01-27,Australia,United Arab Emirates,2,0,AFC Asian Cup,Australia,True
+2015-01-31,Australia,South Korea,2,1,AFC Asian Cup,Australia,True
+2015-01-31,Equatorial Guinea,Tunisia,2,1,African Cup of Nations,Equatorial Guinea,True
+2015-02-05,Equatorial Guinea,Ghana,0,3,African Cup of Nations,Equatorial Guinea,False
+2015-02-07,Equatorial Guinea,DR Congo,0,0,African Cup of Nations,Equatorial Guinea,False
+2015-06-11,Chile,Ecuador,2,0,Copa América,Chile,True
+2015-06-15,Chile,Mexico,3,3,Copa América,Chile,False
+2015-06-19,Chile,Bolivia,5,0,Copa América,Chile,True
+2015-06-24,Chile,Uruguay,1,0,Copa América,Chile,True
+2015-06-29,Chile,Peru,2,1,Copa América,Chile,True
+2015-07-04,Chile,Argentina,0,0,Copa América,Chile,False
+2016-06-03,United States,Colombia,0,2,Copa América,United States,False
+2016-06-07,United States,Costa Rica,4,0,Copa América,United States,True
+2016-06-10,France,Romania,2,1,UEFA Euro,France,True
+2016-06-11,United States,Paraguay,1,0,Copa América,United States,True
+2016-06-15,France,Albania,2,0,UEFA Euro,France,True
+2016-06-16,United States,Ecuador,2,1,Copa América,United States,True
+2016-06-19,France,Switzerland,0,0,UEFA Euro,France,False
+2016-06-21,United States,Argentina,0,4,Copa América,United States,False
+2016-06-25,United States,Colombia,0,1,Copa América,United States,False
+2016-06-26,France,Republic of Ireland,2,1,UEFA Euro,France,True
+2016-07-03,France,Iceland,5,2,UEFA Euro,France,True
+2016-07-07,France,Germany,2,0,UEFA Euro,France,True
+2016-07-10,France,Portugal,0,1,UEFA Euro,France,False
+2017-01-14,Gabon,Guinea-Bissau,1,1,African Cup of Nations,Gabon,False
+2017-01-18,Gabon,Burkina Faso,1,1,African Cup of Nations,Gabon,False
+2017-01-22,Gabon,Cameroon,0,0,African Cup of Nations,Gabon,False
+2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,Russia,True
+2018-06-19,Russia,Egypt,3,1,FIFA World Cup,Russia,True
+2018-06-25,Russia,Uruguay,0,3,FIFA World Cup,Russia,False
+2018-07-01,Russia,Spain,1,1,FIFA World Cup,Russia,False
+2018-07-07,Russia,Croatia,2,2,FIFA World Cup,Russia,False
+2019-01-05,United Arab Emirates,Bahrain,1,1,AFC Asian Cup,United Arab Emirates,False
+2019-01-10,United Arab Emirates,India,2,0,AFC Asian Cup,United Arab Emirates,True
+2019-01-14,United Arab Emirates,Thailand,1,1,AFC Asian Cup,United Arab Emirates,False
+2019-01-21,United Arab Emirates,Kyrgyzstan,3,2,AFC Asian Cup,United Arab Emirates,True
+2019-01-25,United Arab Emirates,Australia,1,0,AFC Asian Cup,United Arab Emirates,True
+2019-01-29,United Arab Emirates,Qatar,0,4,AFC Asian Cup,United Arab Emirates,False
+2019-06-14,Brazil,Bolivia,3,0,Copa América,Brazil,True
+2019-06-18,Brazil,Venezuela,0,0,Copa América,Brazil,False
+2019-06-21,Egypt,Zimbabwe,1,0,African Cup of Nations,Egypt,True
+2019-06-22,Brazil,Peru,5,0,Copa América,Brazil,True
+2019-06-26,Egypt,DR Congo,2,0,African Cup of Nations,Egypt,True
+2019-06-27,Brazil,Paraguay,0,0,Copa América,Brazil,False
+2019-06-30,Egypt,Uganda,2,0,African Cup of Nations,Egypt,True
+2019-07-02,Brazil,Argentina,2,0,Copa América,Brazil,True
+2019-07-06,Egypt,South Africa,0,1,African Cup of Nations,Egypt,False
+2019-07-07,Brazil,Peru,3,1,Copa América,Brazil,True
+2021-06-11,Italy,Turkey,3,0,UEFA Euro,Italy,True
+2021-06-12,Wales,Switzerland,1,1,UEFA Euro,Wales,False
+2021-06-12,Denmark,Finland,0,1,UEFA Euro,Denmark,False
+2021-06-12,Russia,Belgium,0,3,UEFA Euro,Russia,False
+2021-06-13,Netherlands,Ukraine,3,2,UEFA Euro,Netherlands,True
+2021-06-13,England,Croatia,1,0,UEFA Euro,England,True
+2021-06-13,Brazil,Venezuela,3,0,Copa América,Brazil,True
+2021-06-14,Scotland,Czech Republic,0,2,UEFA Euro,Scotland,False
+2021-06-14,Spain,Sweden,0,0,UEFA Euro,Spain,False
+2021-06-15,Hungary,Portugal,0,3,UEFA Euro,Hungary,False
+2021-06-15,Germany,France,0,1,UEFA Euro,Germany,False
+2021-06-16,Italy,Switzerland,3,0,UEFA Euro,Italy,True
+2021-06-16,Russia,Finland,1,0,UEFA Euro,Russia,True
+2021-06-17,Denmark,Belgium,1,2,UEFA Euro,Denmark,False
+2021-06-17,Netherlands,Austria,2,0,UEFA Euro,Netherlands,True
+2021-06-17,Brazil,Peru,4,0,Copa América,Brazil,True
+2021-06-18,England,Scotland,0,0,UEFA Euro,England,False
+2021-06-19,Spain,Poland,1,1,UEFA Euro,Spain,False
+2021-06-19,Hungary,France,1,1,UEFA Euro,Hungary,False
+2021-06-19,Germany,Portugal,4,2,UEFA Euro,Germany,True
+2021-06-20,Italy,Wales,1,0,UEFA Euro,Italy,True
+2021-06-21,Denmark,Russia,4,1,UEFA Euro,Denmark,True
+2021-06-21,Netherlands,North Macedonia,3,0,UEFA Euro,Netherlands,True
+2021-06-22,Scotland,Croatia,1,3,UEFA Euro,Scotland,False
+2021-06-22,England,Czech Republic,1,0,UEFA Euro,England,True
+2021-06-23,Spain,Slovakia,5,0,UEFA Euro,Spain,True
+2021-06-23,Germany,Hungary,2,2,UEFA Euro,Germany,False
+2021-06-23,Brazil,Colombia,2,1,Copa América,Brazil,True
+2021-06-27,Brazil,Ecuador,1,1,Copa América,Brazil,False
+2021-06-29,England,Germany,2,0,UEFA Euro,England,True
+2021-07-02,Brazil,Chile,1,0,Copa América,Brazil,True
+2021-07-05,Brazil,Peru,1,0,Copa América,Brazil,True
+2021-07-07,England,Denmark,2,1,UEFA Euro,England,True
+2021-07-10,Brazil,Argentina,0,1,Copa América,Brazil,False
+2021-07-11,England,Italy,1,1,UEFA Euro,England,False
+2022-01-09,Cameroon,Burkina Faso,2,1,African Cup of Nations,Cameroon,True
+2022-01-13,Cameroon,Ethiopia,4,1,African Cup of Nations,Cameroon,True
+2022-01-17,Cameroon,Cape Verde,1,1,African Cup of Nations,Cameroon,False
+2022-01-24,Cameroon,Comoros,2,1,African Cup of Nations,Cameroon,True
+2022-01-29,Cameroon,Gambia,2,0,African Cup of Nations,Cameroon,True
+2022-02-03,Cameroon,Egypt,0,0,African Cup of Nations,Cameroon,False
+2022-02-05,Cameroon,Burkina Faso,3,3,African Cup of Nations,Cameroon,False
+2022-11-20,Qatar,Ecuador,0,2,FIFA World Cup,Qatar,False
+2022-11-25,Qatar,Senegal,1,3,FIFA World Cup,Qatar,False
+2022-11-29,Qatar,Netherlands,0,2,FIFA World Cup,Qatar,False
